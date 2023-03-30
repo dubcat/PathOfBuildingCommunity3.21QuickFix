@@ -8,4 +8,6 @@
 
 - Done
 
+- Path of Building will tell you there is a new Update. If you update, it will go back to 3.20
+
 - Remember that this will only give you the new passive tree, it does not add function for the new Mastery nodes. They will show up red in Path of Building.
