@@ -8,4 +8,4 @@
 
 - Done
 
-- Remember that this only gives you the new talent tree, it does not add function for the new Mastery nodes.
+- Remember that this will only give you the new talent tree, it does not add function for the new Mastery nodes.
