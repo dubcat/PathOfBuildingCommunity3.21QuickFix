@@ -2,7 +2,7 @@
 
 - Download fresh Path of Building Community https://github.com/PathOfBuildingCommunity/PathOfBuilding/releases/download/v2.25.1/PathOfBuildingCommunity-Portable-2.25.1.zip
 
-- Download this patch https://github.com/dubcat/PathOfBuildingCommunity3.21Hotfix/archive/refs/heads/main.zip
+- Download this patch https://github.com/dubcat/PathOfBuildingCommunity3.21QuickFix/archive/refs/heads/main.zip
 
 - Extract this patch into the Path of Building Community folder and overwrite
 
