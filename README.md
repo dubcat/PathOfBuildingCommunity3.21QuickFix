@@ -4,7 +4,7 @@
 
 - Download this patch https://github.com/dubcat/PathOfBuildingCommunity3.21Hotfix/archive/refs/heads/main.zip
 
-- Extract the patch into the Path of Building Community folder and overwrite
+- Extract this patch into the Path of Building Community folder and overwrite
 
 - Done
 
