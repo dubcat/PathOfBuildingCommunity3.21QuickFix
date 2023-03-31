@@ -4,7 +4,7 @@
 
 - Download this patch https://github.com/dubcat/PathOfBuildingCommunity3.21QuickFix/archive/refs/heads/main.zip
 
-- Copy GameVersions.lua + Folder and paste them into the "Path of Building Community" Folder and overwrite
+- Copy GameVersions.lua + TreeData Folder and paste them into the "Path of Building Community" Folder and overwrite
 
 - Done
 
