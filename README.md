@@ -1,6 +1,6 @@
 # Read Me
 
-# The official patch is out now. So don't use this version anymore.
+# The official patch is out. Don't use this version anymore.
 
 
 - Download fresh Path of Building Community https://github.com/PathOfBuildingCommunity/PathOfBuilding/releases/download/v2.25.1/PathOfBuildingCommunity-Portable-2.25.1.zip
